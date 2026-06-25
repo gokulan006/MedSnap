@@ -34,6 +34,6 @@ MedSnap is an AI-powered tool designed for **medical students, researchers, and 
 - Support multiple languages for global accessibility.
  
 ## License
-Apache 2.0 License - Free to use and modify.
+- Apache 2.0 License - Free to use and modify.
 ---
 
