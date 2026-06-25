@@ -12,7 +12,7 @@ MedSnap is an AI-powered tool designed for **medical students, researchers, and 
 
 2. **Medical Text Summarization** 
    - Summarizes **medical research papers, notes, and abstracts**.
-   - Uses **BART/T5 transformers** trained on scientific literature.
+   - Uses Hugging Face Transformers for summarization.
    - Provides three summary modes:
      - **Abstract Summary** (Concise overview of the abstract)
      - **Notes Summary** (Detailed summary suitable for quick reference)
